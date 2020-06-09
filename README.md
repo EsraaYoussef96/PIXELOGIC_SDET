@@ -14,4 +14,4 @@
 
 -Limitations:
 -Implementation of HTTP interceptor,However I,ve started learning more about HTTP interceptor advantages and Implementation using Selenium and Postman.
-
+Note:This Project will run for Chrome browser version 83.0.4103.97 or higher.
